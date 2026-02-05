@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Benele 👋
 
-<!--
-**benele-m/benele-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+ Interested in Networking, Software Development, Linux, and Android  
+ Learning by building real projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+- Programming: Java, Python, JavaScript, C++
+- Web: HTML, CSS
+- Systems: Linux (Ubuntu), Windows, Git, GitHub
+- Networking: Ethernet (IEEE 802.3 basics)
+
+---
+
+##  Featured Projects
+🔹 See pinned repositories below ⬇️
+
+---
+
+## Contact
+- Email: mambabenele@gmail.com
+- GitHub: https://github.com/benele-m
