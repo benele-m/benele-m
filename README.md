@@ -1,7 +1,7 @@
 # Hi, I'm Benele 👋
 
 🎓 Computer Science student
- Interested in Networking, Software Development, Linux, and Android  
+ Interested in Networking, Pentesting, Software Development, Linux, and Android  
  Learning by building real projects
 
 ---
